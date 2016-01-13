@@ -1,0 +1,13 @@
+[package]
+
+name = "rustlearn-4"
+version = "0.1.0"
+authors = ["sxf <sunxfancy@gmail.com>"]
+
+[[bin]]
+
+name = "rustlearn-4"
+path = "main.rs"
+
+[dependencies]
+iron = "*"
