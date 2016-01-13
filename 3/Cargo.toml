@@ -1,0 +1,14 @@
+[package]
+
+name = "rustlearn-3"
+version = "0.1.0"
+authors = ["sxf <sunxfancy@gmail.com>"]
+
+[[bin]]
+
+name = "rustlearn-3"
+path = "main.rs"
+
+[dependencies.sdl2]
+[dependencies]
+hlua = "0.1"
